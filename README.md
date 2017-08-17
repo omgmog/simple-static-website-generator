@@ -2,7 +2,7 @@
 
 ## Featuring
 
-- Twig templating
+- Twig templating (docs: https://twig.symfony.com/doc/2.x/templates.html)
 - JSON data
 - Sass for styles
 
